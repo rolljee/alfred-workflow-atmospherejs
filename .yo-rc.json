@@ -1,0 +1,8 @@
+{
+  "generator-alfred": {
+    "promptValues": {
+      "githubUsername": "rolljee",
+      "website": "https://github.com/rolljee/alfred-workflow-atmospherejs.git"
+    }
+  }
+}
